@@ -12,3 +12,12 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Games
+Plugins/VictoryPlugin/Intermediate
+Plugins/ZipUtility-ue4/Docs
+Plugins/ZipUtility-ue4/Intermediate
+Plugins/ZipUtility-ue4/ThirdParty
+Ejecutar.bat
+OcultarVentana.vbs
+Url.json
+Ventana.bat
