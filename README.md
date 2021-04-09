@@ -1,3 +1,3 @@
 # BulletTimeLauncher
 
-Developed with Unreal Engine 4
+Developed in Unreal Engine 4 with blueprints and c++
