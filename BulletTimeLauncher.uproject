@@ -229,13 +229,8 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1bf89025ddf246e3af3c196d0426e0d3"
 		},
 		{
-			"Name": "Xsolla",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
-		},
-		{
 			"Name": "XsollaLogin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/62e5cde57b564c75bc9e6dffe2dedf88"
 		},
 		{
@@ -299,10 +294,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ZipUtility",
-			"Enabled": false
-		},
-		{
 			"Name": "AISupport",
 			"Enabled": false
 		},
@@ -348,6 +339,25 @@
 			"Name": "RuntimeFilesDownloader",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
+		},
+		{
+			"Name": "ZipUtility",
+			"Enabled": false
+		},
+		{
+			"Name": "XsollaPayments",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f0f64dfd0d034226ada853f6f3d7c427"
+		},
+		{
+			"Name": "XsollaInventory",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4c285d02247d45168cb042991ce81c8d"
+		},
+		{
+			"Name": "Xsolla",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
 		}
 	],
 	"TargetPlatforms": [
